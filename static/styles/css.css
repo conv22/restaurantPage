@@ -3,7 +3,7 @@ body{
     margin-top:80px;
     padding:30px;
     font-family: 'Piazzolla', serif;
-    background-image:url(bgg.jpg);
+    background-image:url(static/images/bgg.jpg);
     background-position:center;
     background-size:cover;
     background-repeat:no-repeat;
