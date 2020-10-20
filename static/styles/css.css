@@ -3,7 +3,7 @@ body{
     margin-top:80px;
     padding:30px;
     font-family: 'Piazzolla', serif;
-    background-image:url(https://images.wallpaperscraft.com/image/coffee_drink_powder_119246_1920x1080.jpg);
+    background-image:url(../static/images/bgg.jpg).;
     background-position:center;
     background-size:cover;
     background-repeat:no-repeat;
